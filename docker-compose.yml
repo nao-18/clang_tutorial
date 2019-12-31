@@ -6,3 +6,4 @@ services:
       - type: bind
         source: .
         target: /cpp-dev
+    stdin_open: true
